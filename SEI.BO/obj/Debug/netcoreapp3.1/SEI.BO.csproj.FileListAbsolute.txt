@@ -1,0 +1,9 @@
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.BO\bin\Debug\netcoreapp3.1\SEI.BO.deps.json
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.BO\bin\Debug\netcoreapp3.1\SEI.BO.dll
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.BO\bin\Debug\netcoreapp3.1\SEI.BO.pdb
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.BO\obj\Debug\netcoreapp3.1\SEI.BO.csprojAssemblyReference.cache
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.BO\obj\Debug\netcoreapp3.1\SEI.BO.AssemblyInfoInputs.cache
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.BO\obj\Debug\netcoreapp3.1\SEI.BO.AssemblyInfo.cs
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.BO\obj\Debug\netcoreapp3.1\SEI.BO.csproj.CoreCompileInputs.cache
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.BO\obj\Debug\netcoreapp3.1\SEI.BO.dll
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.BO\obj\Debug\netcoreapp3.1\SEI.BO.pdb

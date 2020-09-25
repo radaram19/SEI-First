@@ -1,0 +1,12 @@
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\obj\Debug\netcoreapp3.1\SEI.DAL.csprojAssemblyReference.cache
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\obj\Debug\netcoreapp3.1\SEI.DAL.AssemblyInfoInputs.cache
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\obj\Debug\netcoreapp3.1\SEI.DAL.AssemblyInfo.cs
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\bin\Debug\netcoreapp3.1\SEI.DAL.deps.json
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\bin\Debug\netcoreapp3.1\SEI.DAL.dll
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\bin\Debug\netcoreapp3.1\SEI.DAL.pdb
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\bin\Debug\netcoreapp3.1\SEI.BO.dll
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\bin\Debug\netcoreapp3.1\SEI.BO.pdb
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\obj\Debug\netcoreapp3.1\SEI.DAL.csproj.CoreCompileInputs.cache
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\obj\Debug\netcoreapp3.1\SEI.DAL.csproj.CopyComplete
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\obj\Debug\netcoreapp3.1\SEI.DAL.dll
+D:\Personal\Work\Sandhya\SEI_Sample\SEI.DAL\obj\Debug\netcoreapp3.1\SEI.DAL.pdb

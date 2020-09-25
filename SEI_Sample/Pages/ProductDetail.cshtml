@@ -1,0 +1,42 @@
+﻿@page
+@model SEI_Sample.Pages.ProductDetailModel
+@{
+}
+<div class="modal-header modelHeader">
+    <h5 class="modal-title">Product Detail</h5>
+</div>
+<div class="row">
+    <div class="col-md-5">
+        <img src="~/images/@(Model.ProductInfo.ProductId).jpg" height="300" />
+    </div>
+    <div class="col-md-6">
+        <table class="table table-borderless">
+            <tbody>
+                <tr>
+                    <td>Product Id</td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.ProductInfo.ProductId)
+                    </td>
+                </tr>
+                <tr>
+                    <td>Product Name</td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.ProductInfo.ProductName)
+                    </td>
+                </tr>
+                <tr>
+                    <td>Price Per Item</td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.ProductInfo.PricePerItem)
+                    </td>
+                </tr>
+                <tr>
+                    <td>Average Customer Rating</td>
+                    <td>
+                        @Html.DisplayFor(modelItem => Model.ProductInfo.AverageCustomerRating)
+                    </td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+</div>
